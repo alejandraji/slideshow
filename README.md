@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-
-=======
 Getting Started
 Hey there! Welcome to DoorDash's frontend interview!
 
@@ -14,4 +11,3 @@ What are the sort of improvements and choices you'll make as you build this, and
 In the interest of time, we are providing the basic functionality for fetching the images from the reddit channel, check the dogapi.js file for more details.
 
 Remember, building stuff is supposed to be fun, so be creative! Happy coding!
->>>>>>> 3ff7608 (remove files)
