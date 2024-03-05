@@ -1,15 +1,14 @@
-import React, { useState, useEffect } from "react";
+import React from "react";
 import ReactDOM from "react-dom";
 import Slideshow from "./components/Slideshow";
-// import { getDogs } from "./dogapi";
-// import "./styles.css";
+import "./style.css";
 
 // TODO replace with your slideshow App
 const App = () => {
   
   return (
     <section>
-      <h1>HELLO</h1>
+      <h1>Reddit dogs</h1>
       <Slideshow />
     </section>
   );
