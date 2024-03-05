@@ -8,7 +8,9 @@ const App = () => {
   
   return (
     <section>
-      <h1>Reddit dogs</h1>
+      <h1 className="text-3xl font-bold text-gray-600 text-center mb-6">
+      reddit dogs working
+    </h1>
       <Slideshow />
     </section>
   );

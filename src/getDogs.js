@@ -11,7 +11,7 @@ const getDogs = () => {
         images.push({ title: title, url: url.replaceAll("&amp;", "&") })
       }
     }
-    console.log('images', images)
+    
     return images;
     
   });
